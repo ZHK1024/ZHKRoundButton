@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZHKRoundButton_Example' do
+  pod 'ZHKRoundButton', :path => '../'
+
+  target 'ZHKRoundButton_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

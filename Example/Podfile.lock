@@ -1,0 +1,16 @@
+PODS:
+  - ZHKRoundButton (0.1.0)
+
+DEPENDENCIES:
+  - ZHKRoundButton (from `../`)
+
+EXTERNAL SOURCES:
+  ZHKRoundButton:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZHKRoundButton: 8f8c7efec3003e7e3ef72ccff515c9f0000d5e4b
+
+PODFILE CHECKSUM: d1ced799c094f86d9f4a754ff1a523dae95fa5f6
+
+COCOAPODS: 1.2.1.beta.1
